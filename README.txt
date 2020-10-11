@@ -7,3 +7,7 @@
   a. A new Roll up summary field "Number_of_Transaction_Items_in_SF__c" is created on the object Transaction__c.
   b. A new custom object with the API name "Integration_Logs__c" is created for tracking the integration logs.
   c. A dummy open source API was used for UI testing and hence, 1 named credential record "DUMMY_API" and 1 remote site setting record "Dummy_Rest" is created for enabling code use.
+  
+4. As per the JSON sample provided, it is considered that the TransactionItem API (First API) can handle information on multiple transactions but Transaction API (Second API) cannot.  
+  
+  
