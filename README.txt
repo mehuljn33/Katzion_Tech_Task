@@ -9,5 +9,9 @@
   c. A dummy open source API was used for UI testing and hence, 1 named credential record "DUMMY_API" and 1 remote site setting record "Dummy_Rest" is created for enabling code use.
   
 4. As per the JSON sample provided, it is considered that the TransactionItem API (First API) can handle information on multiple transactions but Transaction API (Second API) cannot.  
+
+5. The test coverage for all code peices stand at 97% (3% less due to skipping test coverage for Chaining of Queueable apex and re trigger mechanism which was not possible)
+
+6. UI testing has been done on multiple transaction item records in the developer org and seemed to be working as expected
   
   
