@@ -49,7 +49,7 @@ public class Katz_RestUtility {
      * @param : none
      */
     public static Boolean parseResponse() {
-        //Parsing logic for a successful response
+        //Parsing logic for a successful response to be added here. Since we are not implementing that now, leaving this empty.
         return true;
     }
 
